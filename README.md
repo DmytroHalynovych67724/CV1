@@ -1,3 +1,3 @@
 # CV — Dmytro Halynovych
 
-Responsywna strona CV przygotowana na stanowisko Młodszego Serwisanta urządzeń mobilnych.
+Responsywna strona CV przygotowana do pracy na magazynie.

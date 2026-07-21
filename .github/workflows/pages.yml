@@ -1,4 +1,4 @@
-name: Deploy Service Technician CV to GitHub Pages
+name: Deploy Warehouse CV to GitHub Pages
 
 on:
   push:
