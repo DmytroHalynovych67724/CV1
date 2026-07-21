@@ -108,6 +108,12 @@ address a:hover { text-decoration: underline; }
 .status-card div { display: grid; }
 .status-card span { font-size: 12px; opacity: .8; }
 
+.sidebar-section { margin-bottom: 32px; }
+.sidebar-section h2 { margin-bottom: 15px; font-size: 24px; }
+.sidebar-section p { margin-bottom: 8px; }
+.sidebar-section ul { margin: 0; padding-left: 1.2em; }
+.sidebar-section li { margin-bottom: 4px; }
+
 .languages ul { margin: 0; padding-left: 1.2em; }
 .languages li { margin-bottom: 6px; }
 
